@@ -1,0 +1,12 @@
+[
+  {
+    "label": "user7_morty",
+    "headers": { "Authorization": ""Bearer YOUR_TOKEN_HERE"
+    "strip_auth": false
+  },
+  { 
+    "label": "user5_ciso",
+    "headers": { "Authorization": ""Bearer YOUR_TOKEN_HERE"
+    "strip_auth": false
+  }
+]
